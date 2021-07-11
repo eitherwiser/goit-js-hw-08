@@ -1,5 +1,5 @@
 import galleryItems from './app.js';
-console.log(galleryItems);
+
 
 const refs = {
   gallery: document.querySelector('.js-gallery'),
